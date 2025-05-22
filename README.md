@@ -10,9 +10,11 @@
 
 ## Seeing the Output
 
-  This project is **hosted** using ***GitHub Pages***, so the webpage for this first scene result can be acessed [here](https://j00nathan.github.io/three.js-first-scene/).
+  This project is **hosted** using ***GitHub Pages***, so the webpage for this first scene result can be acessed [clicking here](https://j00nathan.github.io/three.js-first-scene/).
 
-  If you plan to clone the repository, you will first need to have **npx** installed (version 10.9.2 is preferible to avoid versioning errors), which is included by default after installing **node.js**. If you have these requirements installed in your computer, you can proceed cloning the repository in a local directory and executing the command: `npx serve .` to instantiate a npx local server and display the webpage.
+  If you plan to clone the repository, you will first need to have **npx** installed (version 10.9.2 is preferible to avoid versioning errors), which is included by default after installing **node.js**. If you have these requirements installed in your computer, you can proceed cloning the repository in a local directory and executing the following command to instantiate a local npx server displaying the webpage: 
+
+`npx serve .`
 
   ***Orbit Controls*** are included in this implementation, the keybinds to move the camera at the webpage are the following:
 - `left-click + drag` to move the camera around the point where the camera is
