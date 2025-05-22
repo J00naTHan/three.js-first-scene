@@ -19,4 +19,4 @@
   ***Orbit Controls*** are included in this implementation, the keybinds to move the camera at the webpage are the following:
 - `left-click + drag` to move the camera around the point where the camera is
 - `scroll in/out` to zoom in and zoom out
-- `ctrl + left-click + drag` to move the camera around
+- `right-click + drag` or `ctrl + left-click + drag` to move the camera around
